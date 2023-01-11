@@ -1,0 +1,41 @@
+html{
+    background-color: rgb(21, 21, 67)!important;
+}
+*{
+    background-color: rgb(21, 21, 67)!important;
+}
+body{
+    margin: 0;
+    padding-left: 2%;
+    padding-top: 2%;
+    font-size: 150%;
+}
+h1{
+    color: rgb(225, 188, 142);
+    margin:0;
+    padding-top: 3%;
+    font-family: sans-serif;
+}
+pre{
+    color:rgb(225, 210, 190);
+    font-size: larger;
+}
+a{
+    text-decoration: none;
+    color: rgb(193, 150, 43);
+}
+table{
+    text-align: left;
+    width: 95%;
+    margin: auto;
+}
+tr, tr a{
+    color: rgb(225, 210, 190);
+}
+a:hover{
+    color: rgb(201, 116, 30);
+}
+td:first-child{
+    width: 3%;
+}
+
